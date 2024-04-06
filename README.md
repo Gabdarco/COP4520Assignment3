@@ -18,3 +18,7 @@ in order to make testing and grading easier, I made it so that measurements are 
 every minute. After a report is made, the program will not terminate. It will instead wipe all data collected so far
 and start taking measurements again, and after an additional minute it will make a new report. The program only terminates
 if the user forces it by using the command "ctrl+C".
+
+
+
+Report.docx contains the written report evaluating the proof of correctness, efficiency and experimental evaluation of both problems.
